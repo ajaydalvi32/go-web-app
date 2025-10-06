@@ -37,3 +37,4 @@ func main() {
 		log.Fatal(err)
 	}
 }
+// Triggering GitHub Actions workflow
