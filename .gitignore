@@ -20,3 +20,10 @@
 # Go workspace file
 go.work
 go.work.sum
+# Ignore build and temp folders
+bin/
+build/
+*.exe
+*.log
+node_modules/
+.vscode/
